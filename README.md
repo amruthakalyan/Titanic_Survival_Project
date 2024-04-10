@@ -24,3 +24,5 @@ This dataset can be used for various purposes, including but not limited to:
 Exploratory data analysis (EDA) to understand the distributions and relationships between variables.
 Predictive modeling to predict whether a passenger survived based on the available features.
 Feature engineering to create new features or preprocess existing ones for modeling.
+
+ACCURACY/Performance OF THE MODEL : 82.48%
